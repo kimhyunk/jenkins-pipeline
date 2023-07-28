@@ -1,0 +1,6 @@
+Wed Nov  2 04:19:56 2022
+PARTITION AVAIL  TIMELIMIT   JOB_SIZE ROOT OVERSUBS     GROUPS  NODES       STATE NODELIST
+thunder      up   infinite 1-infinite   no       NO        all      1       down* supreme-thunder02
+thunder      up   infinite 1-infinite   no       NO        all      1        idle supreme-thunder01
+snow         up   infinite 1-infinite   no       NO        all      2        idle supreme-snow[01-02]
+jade*        up   infinite 1-infinite   no       NO        all      1        idle supreme-jade01

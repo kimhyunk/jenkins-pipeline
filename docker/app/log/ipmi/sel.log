@@ -1,0 +1,177 @@
+#####
+supreme-snow01
+fd5c | 08/19/2022 | 00:52:52 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+fd5d | 08/19/2022 | 00:53:09 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+fd5e | 08/19/2022 | 00:54:40 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+fd5f | 08/19/2022 | 00:54:40 | Power Unit #0xd2 | Upper Critical going high | Asserted
+fd60 | 08/19/2022 | 00:54:53 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+fd61 | 08/19/2022 | 00:55:12 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+fd62 | 08/19/2022 | 00:56:07 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+fd63 | 08/19/2022 | 00:56:07 | Power Unit #0xd2 | Upper Critical going high | Asserted
+fd64 | 08/19/2022 | 00:56:37 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+fd65 | 08/19/2022 | 00:56:37 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+fd66 | 08/19/2022 | 00:56:59 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+fd67 | 08/19/2022 | 00:56:59 | Power Unit #0xd2 | Upper Critical going high | Asserted
+fd68 | 08/19/2022 | 00:57:13 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+fd69 | 08/19/2022 | 00:57:13 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+fd6a | 08/19/2022 | 00:57:34 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+fd6b | 08/19/2022 | 00:57:34 | Power Unit #0xd2 | Upper Critical going high | Asserted
+fd6c | 08/19/2022 | 00:57:46 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+fd6d | 08/19/2022 | 00:57:46 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+fd6e | 08/19/2022 | 00:58:30 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+fd6f | 08/19/2022 | 00:58:44 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+#####
+supreme-snow02
+390d | 09/19/2022 | 17:11:22 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+390e | 09/19/2022 | 17:11:22 | Power Unit #0xd2 | Upper Critical going high | Asserted
+390f | 09/19/2022 | 17:11:34 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+3910 | 09/19/2022 | 17:11:34 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+3911 | 09/19/2022 | 17:13:21 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+3912 | 09/19/2022 | 17:13:21 | Power Unit #0xd2 | Upper Critical going high | Asserted
+3913 | 09/19/2022 | 17:13:33 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+3914 | 09/19/2022 | 17:13:33 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+3915 | 09/19/2022 | 17:15:19 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+3916 | 09/19/2022 | 17:15:19 | Power Unit #0xd2 | Upper Critical going high | Asserted
+3917 | 09/19/2022 | 17:15:50 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+3918 | 09/19/2022 | 17:15:50 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+3919 | 09/19/2022 | 17:17:03 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+391a | 09/19/2022 | 17:17:03 | Power Unit #0xd2 | Upper Critical going high | Asserted
+391b | 09/19/2022 | 17:17:49 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+391c | 09/19/2022 | 17:17:49 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+391d | 09/19/2022 | 17:19:18 | Power Unit #0xd2 | Upper Non-critical going high | Asserted
+391e | 09/19/2022 | 17:19:30 | Power Unit #0xd2 | Upper Critical going high | Asserted
+391f | 09/19/2022 | 17:19:49 | Power Unit #0xd2 | Upper Critical going high | Deasserted
+3920 | 09/19/2022 | 17:19:49 | Power Unit #0xd2 | Upper Non-critical going high | Deasserted
+#####
+supreme-thunder01
+   1 | 01/19/2017 | 09:01:35 | Processor #0x91 | Presence detected | Asserted
+   2 | 01/19/2017 | 09:01:35 | Power Supply #0x9b | Presence detected | Asserted
+   3 | 01/19/2017 | 09:01:39 | Processor #0x90 | Presence detected | Asserted
+   4 | 01/19/2017 | 09:01:39 | Power Supply #0x9a | Presence detected | Asserted
+   5 | 01/19/2017 | 09:01:45 | System Event | OEM System boot event | Asserted
+   6 | 01/19/2017 | 09:02:00 | System Event | Timestamp Clock Sync | Asserted
+   7 | 07/31/2017 | 23:45:02 | System Event | Timestamp Clock Sync | Asserted
+   8 | 01/19/2017 | 09:01:32 | System Event | OEM System boot event | Asserted
+   9 | 01/19/2017 | 09:01:38 | Processor #0x91 | Presence detected | Asserted
+   a | 01/19/2017 | 09:01:38 | Power Supply #0x9b | Presence detected | Asserted
+   b | 01/19/2017 | 09:01:41 | Processor #0x90 | Presence detected | Asserted
+   c | 01/19/2017 | 09:01:41 | Power Supply #0x9a | Presence detected | Asserted
+   d | 01/19/2017 | 09:01:48 | System Event | Timestamp Clock Sync | Asserted
+   e | 07/31/2017 | 23:54:56 | System Event | Timestamp Clock Sync | Asserted
+   f | 07/31/2017 | 23:56:10 | OEM record c0 | 00b3d1 | cb8002000000
+  10 | 07/31/2017 | 23:59:52 | System Event | OEM System boot event | Asserted
+  11 | 08/01/2017 | 00:06:22 | System Event | OEM System boot event | Asserted
+  12 | 08/01/2017 | 00:06:37 | System Event | Timestamp Clock Sync | Asserted
+  13 | 08/01/2017 | 00:06:41 | System Event | Timestamp Clock Sync | Asserted
+  14 | 08/01/2017 | 00:18:15 | System Event | OEM System boot event | Asserted
+#####
+supreme-thunder02
+   1 | 09/25/2016 | 09:20:39 | System Event | OEM System boot event | Asserted
+   2 | 09/25/2016 | 09:20:43 | Processor #0x91 | Presence detected | Asserted
+   3 | 09/25/2016 | 09:20:43 | Power Supply #0x9b | Presence detected | Asserted
+   4 | 09/25/2016 | 09:20:46 | Processor #0x90 | Presence detected | Asserted
+   5 | 09/25/2016 | 09:20:46 | Power Supply #0x9a | Presence detected | Asserted
+   6 | 09/25/2016 | 09:20:55 | System Event | Timestamp Clock Sync | Asserted
+   7 | 05/02/2017 | 23:41:58 | System Event | Timestamp Clock Sync | Asserted
+   8 | 09/25/2016 | 09:20:53 | Processor #0x90 | Presence detected | Asserted
+   9 | 09/25/2016 | 09:20:53 | Processor #0x91 | Presence detected | Asserted
+   a | 09/25/2016 | 09:20:57 | Power Supply #0x9a | Presence detected | Asserted
+   b | 09/25/2016 | 09:20:57 | Power Supply #0x9b | Presence detected | Asserted
+   c | 09/25/2016 | 09:21:17 | System Event | OEM System boot event | Asserted
+   d | 09/25/2016 | 09:21:32 | System Event | Timestamp Clock Sync | Asserted
+   e | 05/02/2017 | 11:19:08 | System Event | Timestamp Clock Sync | Asserted
+   f | 05/02/2017 | 11:39:20 | System Event | OEM System boot event | Asserted
+  10 | 05/02/2017 | 11:39:40 | System Event | Timestamp Clock Sync | Asserted
+  11 | 05/02/2017 | 11:39:45 | System Event | Timestamp Clock Sync | Asserted
+  12 | 05/02/2017 | 11:57:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+  13 | 05/02/2017 | 12:41:31 | System Event | OEM System boot event | Asserted
+  14 | 05/02/2017 | 12:41:47 | System Event | Timestamp Clock Sync | Asserted
+#####
+supreme-jade01
+ 30b | 04/25/2022 | 23:24:14 | OEM record c0 | 00cd3a | ca90f104ffff
+ 30c | 04/25/2022 | 23:24:14 | OEM record c0 | 00cd3a | 0feb70120000
+ 30d | 04/25/2022 | 23:24:15 | OEM record c0 | 00cd3a | ca8ff104ffff
+ 30e | 04/25/2022 | 23:24:32 | OEM record c0 | 00cd3a | 0feb70220000
+ 30f | 04/25/2022 | 23:24:33 | OEM record c0 | 00cd3a | 0feb70320000
+ 310 | 04/25/2022 | 23:24:35 | OEM record c0 | 00cd3a | 0feb70520000
+ 311 | 04/25/2022 | 23:24:36 | OEM record c0 | 00cd3a | 0feb70620000
+ 312 | 04/25/2022 | 23:27:23 | OEM record c0 | 00cd3a | ca9371a2498d
+ 313 | 04/25/2022 | 23:27:23 | OEM record c0 | 00cd3a | ca907104ffff
+ 314 | 04/25/2022 | 23:27:23 | System Boot Initiated #0xdc | OS initiated hard reset | Asserted
+ 315 | 04/25/2022 | 23:27:24 | OEM record c0 | 00cd3a | 0feb70020000
+ 316 | 04/25/2022 | 23:27:24 | OEM record c0 | 00cd3a | ca937122498d
+ 317 | 04/25/2022 | 23:27:24 | OEM record c0 | 00cd3a | ca8f7104ffff
+ 318 | 04/25/2022 | 23:27:24 | OEM record c0 | 00cd3a | ca90f104ffff
+ 319 | 04/25/2022 | 23:27:24 | OEM record c0 | 00cd3a | 0feb70120000
+ 31a | 04/25/2022 | 23:27:25 | OEM record c0 | 00cd3a | ca8ff104ffff
+ 31b | 04/25/2022 | 23:27:42 | OEM record c0 | 00cd3a | 0feb70220000
+ 31c | 04/25/2022 | 23:27:43 | OEM record c0 | 00cd3a | 0feb70320000
+ 31d | 04/25/2022 | 23:27:45 | OEM record c0 | 00cd3a | 0feb70520000
+ 31e | 04/25/2022 | 23:27:46 | OEM record c0 | 00cd3a | 0feb70620000
+#####
+supreme-storage01
+   1 | 09/15/2021 | 08:00:54 | Event Logging Disabled #0xbb | Log area reset/cleared | Asserted
+   2 | 09/15/2021 | 08:01:05 | FRU State #0xd9 | Deactivation Requested | Asserted
+   3 | 09/15/2021 | 08:01:05 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   4 | 09/27/2021 | 16:24:01 | Power Unit #0xd8 | AC lost | Deasserted
+   5 | 09/27/2021 | 16:24:13 | Button #0xd4 | Power Button pressed | Asserted
+   6 | 09/27/2021 | 16:24:14 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+   7 | 09/27/2021 | 16:36:55 | Button #0xd4 | Power Button pressed | Asserted
+   8 | 09/27/2021 | 16:36:56 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   9 | 09/28/2021 | 10:15:55 | Button #0xd4 | Power Button pressed | Asserted
+   a | 09/28/2021 | 10:15:56 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+   b | 09/28/2021 | 10:30:46 | System Event | Timestamp Clock Sync | Asserted
+   c | 09/28/2021 | 01:32:59 | System Event | Timestamp Clock Sync | Asserted
+   d | 09/28/2021 | 01:59:27 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   e | 10/06/2021 | 02:32:51 | Power Unit #0xd8 | AC lost | Deasserted
+   f | 10/06/2021 | 02:33:11 | Power Supply #0x90 | Presence detected | Deasserted
+  10 | 10/06/2021 | 02:33:16 | Power Supply #0x90 | Presence detected | Asserted
+  11 | 10/06/2021 | 02:37:43 | Button #0xd4 | Power Button pressed | Asserted
+  12 | 10/06/2021 | 02:37:44 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+  13 | 10/06/2021 | 07:22:50 | FRU State #0xdb | Activation Requested | Asserted
+  14 | 10/06/2021 | 07:22:51 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+#####
+supreme-storage02
+   1 | 06/12/2021 | 01:46:54 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+   2 | 06/12/2021 | 01:53:07 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   3 | 06/12/2021 | 01:54:36 | Power Unit #0xd8 | AC lost | Deasserted
+   4 | 06/12/2021 | 01:54:41 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+   5 | 06/12/2021 | 01:57:19 | Button #0xd4 | Power Button pressed | Asserted
+   6 | 06/12/2021 | 01:57:19 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   7 | 11/01/2021 | 16:52:39 | Power Unit #0xd8 | AC lost | Deasserted
+   8 | 11/01/2021 | 16:53:00 | Power Supply #0x91 | Presence detected | Deasserted
+   9 | 11/01/2021 | 16:53:03 | Power Supply #0x91 | Presence detected | Asserted
+   a | 11/01/2021 | 16:53:03 | Power Supply #0x91 | Power Supply AC lost | Asserted
+   b | 11/01/2021 | 16:53:06 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+   c | 11/01/2021 | 16:53:22 | Power Supply #0x91 | Power Supply AC lost | Deasserted
+   d | 11/01/2021 | 17:18:45 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+   e | 04/29/2022 | 15:23:32 | Power Unit #0xd8 | AC lost | Deasserted
+   f | 04/29/2022 | 15:23:37 | System ACPI Power State #0xd3 | S0/G0: working | Asserted
+  10 | 04/29/2022 | 15:57:42 | System Event | Timestamp Clock Sync | Asserted
+  11 | 04/29/2022 | 08:12:39 | System Event | Timestamp Clock Sync | Asserted
+  12 | 04/29/2022 | 08:16:41 | System ACPI Power State #0xd3 | S5/G2: soft-off | Asserted
+  13 | 06/10/2022 | 02:06:03 | Power Unit #0xd8 | AC lost | Deasserted
+  14 | 06/10/2022 | 02:06:24 | Power Supply #0x90 | Presence detected | Deasserted
+#####
+supreme-storage03
+   1 | 06/10/2019 | 16:41:18 | Power Supply #0x91 | Power Supply AC lost | Asserted
+   2 | 06/10/2019 | 16:41:23 | System ACPI Power State #0xb8 | S4/S5: soft-off | Asserted
+   3 | 07/28/2021 | 06:27:55 | System ACPI Power State #0xb7 | S0/G0: working | Asserted
+   4 | 07/28/2021 | 06:28:25 | Power Supply #0x91 | Presence detected | Deasserted
+   5 | 07/28/2021 | 06:28:25 | Power Supply #0x91 | Failure detected | Asserted
+   6 | 07/28/2021 | 06:30:29 | Voltage #0x5f | Lower Critical going low  | Asserted
+   7 | 07/28/2021 | 06:30:35 | Voltage #0x5f | Lower Critical going low  | Deasserted
+   8 | 07/28/2021 | 06:31:30 | Power Supply #0x91 | Presence detected | Deasserted
+   9 | 07/28/2021 | 06:31:30 | Power Supply #0x91 | Failure detected | Asserted
+   a | 07/28/2021 | 06:32:31 | Power Supply #0x91 | Presence detected | Deasserted
+   b | 07/28/2021 | 06:32:31 | Power Supply #0x91 | Failure detected | Asserted
+   c | 07/28/2021 | 06:33:09 | Power Supply #0x90 | Power Supply AC lost | Asserted
+   d | 07/28/2021 | 06:33:15 | Power Supply #0x90 | Power Supply AC lost | Deasserted
+   e | 07/28/2021 | 06:33:15 | Power Supply #0x91 | Presence detected | Asserted
+   f | 07/28/2021 | 06:33:15 | Power Supply #0x91 | Failure detected | Deasserted
+  10 | 07/28/2021 | 06:33:21 | Power Supply #0x91 | Power Supply AC lost | Asserted
+  11 | 07/28/2021 | 06:33:26 | Power Supply #0x91 | Presence detected | Deasserted
+  12 | 07/28/2021 | 06:33:26 | Power Supply #0x91 | Failure detected | Asserted
+  13 | 07/28/2021 | 06:33:26 | Power Supply #0x91 | Power Supply AC lost | Deasserted
+  14 | 07/28/2021 | 06:33:45 | Power Supply #0x91 | Presence detected | Asserted
+#####

@@ -1,0 +1,107 @@
+NodeName=supreme-jade01 Arch=aarch64 CoresPerSocket=80 
+   CPUAlloc=0 CPUTot=160 CPULoad=0.00
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.60 NodeHostName=supreme-jade01 Version=19.05.5
+   OS=Linux 5.4.0-126-generic #142-Ubuntu SMP Fri Aug 26 12:15:55 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=58944 Sockets=2 Boards=1
+   State=IDLE ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   Partitions=jade 
+   BootTime=2022-10-21T07:32:14 SlurmdStartTime=2022-10-21T07:33:04
+   CfgTRES=cpu=160,mem=1M,billing=160
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   
+
+NodeName=supreme-mas Arch=x86_64 CoresPerSocket=1 
+   CPUAlloc=0 CPUTot=96 CPULoad=1.48
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.23 NodeHostName=supreme-mas Version=19.05.5
+   OS=Linux 5.4.0-131-generic #147-Ubuntu SMP Fri Oct 14 17:07:22 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=105835 Sockets=96 Boards=1
+   State=IDLE ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   BootTime=2022-10-24T23:42:11 SlurmdStartTime=2022-10-26T00:22:31
+   CfgTRES=cpu=96,mem=1M,billing=96
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   
+
+NodeName=supreme-snow01 Arch=aarch64 CoresPerSocket=1 
+   CPUAlloc=0 CPUTot=80 CPULoad=0.00
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.21 NodeHostName=supreme-snow01 Version=19.05.5
+   OS=Linux 5.4.0-128-generic #144-Ubuntu SMP Tue Sep 20 11:03:09 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=245513 Sockets=80 Boards=1
+   State=IDLE ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   Partitions=snow 
+   BootTime=2022-10-11T08:12:53 SlurmdStartTime=2022-10-21T06:54:17
+   CfgTRES=cpu=80,mem=1M,billing=80
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   
+
+NodeName=supreme-snow02 Arch=aarch64 CoresPerSocket=1 
+   CPUAlloc=0 CPUTot=80 CPULoad=0.02
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.20 NodeHostName=supreme-snow02 Version=19.05.5
+   OS=Linux 5.4.0-126-generic #142-Ubuntu SMP Fri Aug 26 12:15:55 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=242514 Sockets=80 Boards=1
+   State=IDLE ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   Partitions=snow 
+   BootTime=2022-10-11T08:12:46 SlurmdStartTime=2022-10-21T06:54:17
+   CfgTRES=cpu=80,mem=1M,billing=80
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   
+
+NodeName=supreme-thunder01 Arch=aarch64 CoresPerSocket=48 
+   CPUAlloc=0 CPUTot=96 CPULoad=0.71
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.10 NodeHostName=supreme-thunder01 Version=19.05.5
+   OS=Linux 5.4.0-128-generic #144-Ubuntu SMP Tue Sep 20 11:03:09 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=60835 Sockets=2 Boards=1
+   State=IDLE ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   Partitions=thunder 
+   BootTime=2022-10-11T08:14:09 SlurmdStartTime=2022-10-21T06:54:18
+   CfgTRES=cpu=96,mem=1M,billing=96
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   
+
+NodeName=supreme-thunder02 Arch=aarch64 CoresPerSocket=48 
+   CPUAlloc=0 CPUTot=96 CPULoad=3.32
+   AvailableFeatures=(null)
+   ActiveFeatures=(null)
+   Gres=(null)
+   NodeAddr=10.10.0.37 NodeHostName=supreme-thunder02 Version=19.05.5
+   OS=Linux 5.4.0-131-generic #147-Ubuntu SMP Fri Oct 14 17:09:03 UTC 2022 
+   RealMemory=1 AllocMem=0 FreeMem=30964 Sockets=2 Boards=1
+   State=DOWN* ThreadsPerCore=1 TmpDisk=0 Weight=1 Owner=N/A MCS_label=N/A
+   Partitions=thunder 
+   BootTime=2022-11-02T01:40:55 SlurmdStartTime=2022-11-02T01:42:14
+   CfgTRES=cpu=96,mem=1M,billing=96
+   AllocTRES=
+   CapWatts=n/a
+   CurrentWatts=0 AveWatts=0
+   ExtSensorsJoules=n/s ExtSensorsWatts=0 ExtSensorsTemp=n/s
+   Reason=Not responding [slurm@2022-11-02T01:49:49]
+

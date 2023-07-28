@@ -1,0 +1,25 @@
+#####
+node: supreme-snow01
+System Power         : on
+#####
+node: supreme-snow02
+System Power         : on
+#####
+node: supreme-thunder01
+System Power         : on
+#####
+node: supreme-thunder02
+System Power         : off
+#####
+node: supreme-jade01
+System Power         : on
+#####
+node: supreme-storage01
+System Power         : on
+#####
+node: supreme-storage02
+System Power         : on
+#####
+node: supreme-storage03
+System Power         : on
+#####

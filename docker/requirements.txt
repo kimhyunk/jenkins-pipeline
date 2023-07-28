@@ -1,0 +1,7 @@
+fastapi 
+uvicorn
+xmltodict
+jsons
+numpy
+kafka-python==2.0.2
+pyjwt==2.3.0
