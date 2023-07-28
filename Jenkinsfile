@@ -35,7 +35,7 @@ spec:
     args:
     - 99d
   - name: ubuntu
-    image: ubuntu:20.04
+    image: geerlingguy/docker-ubuntu2004
     command:
     - sleep
     args:
