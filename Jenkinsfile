@@ -1,7 +1,7 @@
 pipeline {
-    agent {
-        kubernetes {
-            yaml '''
+  agent {
+    kubernetes {
+      yaml '''
 apiVersion: v1
 kind: Pod
 spec:
@@ -35,51 +35,51 @@ spec:
     args:
     - 99d
 '''
-            defaultContainer 'docker'
-        }
+      defaultContainer 'docker'
     }
-    stages {
-        stage('Checkout') {
-            steps {
-                container('docker') {
-                    checkout scm
-                }
-            }
+
+  }
+  stages {
+    stage('Checkout') {
+      steps {
+        container(name: 'docker') {
+          checkout scm
         }
 
-        stage('Build') {
-            steps {
-                container('docker') {
-                    
-                }
-            }
-        }
-
-        stage('unit test') {
-            steps {
-                container('docker') {
-                    
-                }
-            }
-        }
-
-        stage('push') {
-            steps {
-                container('docker') {
-                    
-                }
-            }
-        }
+      }
     }
-    post {
-        always {
-            echo 'This will always run'
-        }
-        success {
-            echo 'This will run only if the pipeline succeeds'
-        }
-        failure {
-            echo 'This will run only if the pipeline fails'
-        }
+
+    stage('Build') {
+      steps {
+        container(name: 'docker', shell: 'cd docker; ./build-and-push-docker-registry.sh')
+      }
     }
+
+    stage('unit test') {
+      steps {
+        container(name: 'docker')
+      }
+    }
+
+    stage('push') {
+      steps {
+        container(name: 'docker')
+      }
+    }
+
+  }
+  post {
+    always {
+      echo 'This will always run'
+    }
+
+    success {
+      echo 'This will run only if the pipeline succeeds'
+    }
+
+    failure {
+      echo 'This will run only if the pipeline fails'
+    }
+
+  }
 }
