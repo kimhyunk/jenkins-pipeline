@@ -34,6 +34,12 @@ spec:
     - sleep
     args:
     - 99d
+  - name: ubuntu
+    image: ubuntu:20.04
+    command:
+    - sleep
+    args:
+    - 99d
 '''
       defaultContainer 'docker'
     }
