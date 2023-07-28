@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('pod') {
+      steps {
+        podTemplate(activeDeadlineSeconds: 1, cloud: 'kubernetes')
+      }
+    }
+
   }
 }
