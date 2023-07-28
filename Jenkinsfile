@@ -51,7 +51,11 @@ spec:
 
     stage('Build') {
       steps {
-        container(name: 'docker', shell: 'cd docker; ./build-and-push-docker-registry.sh')
+        container(name: 'docker') {
+          sh 'cd docker;'
+          sh './build-and-push-docker-registry.sh'
+        }
+
       }
     }
 
